@@ -3582,17 +3582,17 @@ MonoBehaviour:
   AIFace: {fileID: 1964396362}
   boardRepresentation: 
   PlayerPieces:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 564327130}
+  - {fileID: 1317240487}
+  - {fileID: 673889038}
+  - {fileID: 1311178215}
+  - {fileID: 699604103}
   AIPieces:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 2070929365}
+  - {fileID: 1450575667}
+  - {fileID: 1908602136}
+  - {fileID: 1673561680}
+  - {fileID: 2048959313}
   PlayerPiecePositions:
   - {x: 0, y: 0, z: 0}
   - {x: 0, y: 0, z: 0}
